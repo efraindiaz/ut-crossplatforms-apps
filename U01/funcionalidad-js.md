@@ -1,5 +1,5 @@
 
-![[Pasted image 20250119181602.png]]
+![Pasted image 20250119181602.png](https://pbs.twimg.com/media/GhIyLvhWoAAnLeR.png)
 
 - Variables
 - Tipos de datos
