@@ -1,10 +1,10 @@
 # 📱Desarrollo de Aplicaciones Móviles Multiplataforma**
 
 ## 1️⃣ **Marco de referencia para desarrollo de aplicaciones multiplataforma**  
-- 🌐 **Características de las APPs nativas y multiplataforma**   [📎](https://github.com/efraindiaz/ut-crossplatforms-apps/blob/main/U01/crossplatforms.pdf)
-- - 🎨 **Desarrollo con HTML5 y CSS3**  
-- ⚙️ **Funcionalidad con JavaScript**  
-
+- 🌐 **Características de las APPs nativas y multiplataforma**   ➡️ [📎](https://github.com/efraindiaz/ut-crossplatforms-apps/blob/main/U01/crossplatforms.pdf)
+- 🎨 **Desarrollo con HTML5 y CSS3**  
+- ⚙️ **Funcionalidad con JavaScript**
+  
 ---
 
 ## 2️⃣ **Desarrollo para ambientes multiplataforma**  
