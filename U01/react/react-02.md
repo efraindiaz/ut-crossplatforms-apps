@@ -42,7 +42,7 @@ export default ParentComponent;
 ```
 
 
-![[prop-drilling.png]]
+[prop-drilling](https://github.com/efraindiaz/ut-crossplatforms-apps/blob/main/U01/react/prop-drilling.png?raw=true)
 
 ## 2. Librerías para Manejar Estado
 
