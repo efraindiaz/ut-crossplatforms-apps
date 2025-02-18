@@ -189,18 +189,6 @@ export default function Cat({name}){
 };
 ```
 
----
-### 🧠 Actividad: Listas en React Native
-
-Investigar y comprender cómo funcionan las listas en React Native, especialmente los componentes `FlatList` y `SectionList`, y aplicarlos al ejercicio actual.
-
-```jsx
-//Una interfaz de alto rendimiento para la representación de listas. 
-<FlatList /> 
-```
-
----
-
 
 
 
