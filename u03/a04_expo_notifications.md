@@ -66,6 +66,7 @@ Este proceso generará el `Project ID`, necesario para obtener el **Expo Push To
 ### 📢 Implementación de Expo Notifications
 - Ajustar la lógica para que las **Push Notifications** sean enviadas desde la API en lugar de directamente desde el dispositivo.
 - Enviar el **Expo Push Token** a la API para que esta pueda gestionar el envío de notificaciones.
+- Cambiar la información de la notificación de ejemplo y añadirle algun diferenciador. 
 
 ---
 
